@@ -4,5 +4,4 @@
 - 💬 Ask me about Kubernetes, DevOps, or Content Creation
 - 📫 How to reach me: @chadmcrowell on Twitter
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I used to work on a farm
--->
+- ⚡ Fun fact: I used to work on a farm 🐮
